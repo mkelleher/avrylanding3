@@ -1,7 +1,7 @@
 // Mock data for Avry landing page
 
 export const heroData = {
-  headline: "They say 'the seller pays.' That money still comes from you.",
+  headline: "When buying your first home, they say 'the seller pays.' That money still comes from you.",
   subhead: "Every time a home is sold, thousands in baked-in commissions get siphoned out of your purchase price. Not the bank's. Not the seller's. Yours.",
   supportingLine: "Avry helps you stop funding everyone else's payday — and use that money to lower your costs instead.",
   bullets: [
