@@ -74,7 +74,9 @@ const AvryLanding = () => {
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-black leading-[1.1] tracking-tight">
                 <span className="text-white">When buying your first home, they say '</span>
                 <span className="text-emerald-400">the seller pays.</span>
-                <span className="text-white">' That money still comes from you.</span>
+                <span className="text-white">'</span>
+                <br className="block mt-4" />
+                <span className="text-white block mt-4">That money still comes from you.</span>
               </h1>
               
               <p className="text-xl text-gray-400 leading-relaxed max-w-xl">
